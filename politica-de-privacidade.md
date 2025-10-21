@@ -1,79 +1,76 @@
-# 📜 Termos de Serviço — KamiTicket Bot
+# 🔒 Política de Privacidade — KamiTicket Bot
 **Última atualização:** 21 de outubro de 2025  
 
-Bem-vindo ao **KamiTicket Bot** (“Bot”), um serviço fornecido por **KamiBOTS** (“Nós”, “Nosso”).  
-Estes Termos de Serviço (“Termos”) regem o uso do Bot nos servidores Discord onde ele está instalado.  
-Ao utilizar o Bot, você (“Usuário”) concorda com estes Termos.
+Esta Política de Privacidade descreve como **KamiBOTS** (“Nós”, “Nosso”) coleta, usa e protege as informações quando você (“Usuário”) utiliza o **KamiTicket Bot** (“Bot”).
 
 ---
 
-## 1. Introdução
-O KamiTicket Bot foi criado para facilitar a criação e gerenciamento de tickets de suporte dentro do Discord.  
-Ao utilizar o Bot, você concorda com as regras e diretrizes descritas neste documento.
+## 1. Informações que Coletamos
+Para operar corretamente o sistema de tickets, o Bot coleta e armazena as seguintes informações:
+
+- **ID do Usuário Discord:** para identificar quem abriu o ticket;  
+- **ID do Servidor Discord:** para saber onde o ticket foi criado;  
+- **ID do Canal do Ticket:** para gerenciar permissões e histórico;  
+- **ID da Mensagem do Painel (opcional):** para vincular o ticket ao painel de criação;  
+- **Timestamps:** data e hora de abertura e fechamento do ticket;  
+- **Status do Ticket:** se está aberto ou fechado;  
+- **Dados de Presença (Banco Central):** nome e ID dos servidores onde o bot está presente (para administração e manutenção).
+
+> ❗ O Bot **não armazena o conteúdo das mensagens** enviadas nos tickets. Essas mensagens permanecem sob a responsabilidade do Discord e da equipe de suporte do servidor.
 
 ---
 
-## 2. Aceitação dos Termos
-Ao interagir com o Bot para criar um ticket ou utilizar suas funcionalidades, você confirma que leu, compreendeu e concorda em estar vinculado:
-- A estes Termos de Serviço;  
-- Aos Termos de Uso e Diretrizes da Comunidade do Discord.
+## 2. Como Usamos as Informações
+As informações coletadas são utilizadas para:
+- Criar e gerenciar os canais de ticket;  
+- Associar usuários aos seus respectivos tickets;  
+- Permitir que a equipe de suporte responda aos chamados;  
+- Registrar eventos administrativos (abertura e fechamento de tickets);  
+- Monitorar o status e a presença do Bot em servidores.
 
 ---
 
-## 3. Funcionalidade do Bot
-O KamiTicket Bot tem como principal função permitir que usuários criem canais privados de suporte (“tickets”), nos quais possam se comunicar com a equipe responsável do servidor.
+## 3. Armazenamento e Segurança dos Dados
+Os dados são armazenados em um banco de dados seguro.  
+Adotamos medidas razoáveis para proteger as informações contra acesso não autorizado.  
+No entanto, nenhum sistema é 100% seguro. O conteúdo das mensagens é armazenado e protegido conforme a [Política de Privacidade do Discord](https://discord.com/privacy).
 
 ---
 
-## 4. Responsabilidades do Usuário
-Você concorda em:
-- Utilizar o Bot apenas para os fins de suporte ou comunicação com a equipe do servidor;
-- Não criar múltiplos tickets desnecessários, enviar spam ou assediar outros usuários;
-- Ser responsável pelo conteúdo das mensagens enviadas nos tickets;
-- Cumprir as regras do servidor Discord onde o Bot está ativo.
+## 4. Retenção de Dados
+Os dados dos tickets são mantidos enquanto forem necessários para a operação do Bot.  
+Após o fechamento do ticket, eles podem ser marcados como encerrados ou removidos, conforme a configuração do sistema.
 
 ---
 
-## 5. Moderação e Administração
-- A administração do conteúdo e dos tickets é de responsabilidade do servidor onde o Bot está instalado.  
-- Reservamo-nos o direito de restringir ou bloquear o acesso ao Bot para usuários ou servidores que violem estes Termos ou abusem do sistema.
+## 5. Compartilhamento de Informações
+- Não vendemos, alugamos nem compartilhamos informações com terceiros para fins de marketing.  
+- As informações coletadas são usadas **exclusivamente** para o funcionamento do Bot.  
+- Podemos compartilhar informações apenas se exigido por lei.  
+- A equipe de suporte do servidor tem acesso ao ID do usuário e às mensagens dentro do ticket.
 
 ---
 
-## 6. Coleta de Dados
-O uso do Bot envolve coleta de dados conforme descrito em nossa [Política de Privacidade](politica-de-privacidade.md).  
-Ao utilizar o Bot, você concorda com essa coleta e uso de informações.
+## 6. Seus Direitos
+Você pode solicitar acesso, correção ou exclusão dos seus dados armazenados pelo Bot.  
+Para isso, entre em contato conosco pelo canal de suporte oficial.
+
+Para dados gerenciados pela plataforma Discord (como mensagens enviadas), consulte a [Política de Privacidade do Discord](https://discord.com/privacy).
 
 ---
 
-## 7. Isenção de Garantias
-O KamiTicket Bot é fornecido **“como está”**, sem garantias expressas ou implícitas.  
-Não garantimos funcionamento ininterrupto ou livre de erros.
+## 7. Privacidade Infantil
+O KamiTicket Bot **não se destina a menores de 13 anos** (ou a idade mínima exigida por lei local).  
+Não coletamos intencionalmente informações de crianças.
 
 ---
 
-## 8. Limitação de Responsabilidade
-Em nenhuma circunstância a KamiBOTS será responsável por quaisquer danos diretos, indiretos, incidentais, especiais ou consequenciais resultantes do uso ou incapacidade de uso do Bot.
+## 8. Alterações nesta Política
+Podemos atualizar esta Política periodicamente.  
+Notificaremos sobre alterações significativas através da atualização da data de “Última atualização”.
 
 ---
 
-## 9. Modificações nos Termos
-Podemos modificar estes Termos a qualquer momento.  
-Alterações significativas serão comunicadas através da atualização da data de “Última atualização”.  
-O uso contínuo do Bot após mudanças implica na aceitação dos novos Termos.
-
----
-
-## 10. Rescisão
-Podemos suspender ou encerrar seu acesso ao Bot a qualquer momento, por qualquer motivo, incluindo violação destes Termos.
-
----
-
-## 11. Lei Aplicável
-Estes Termos são regidos pelas leis do **Brasil**, sem considerar conflitos de disposições legais.
-
----
-
-## 12. Contato
-Se você tiver dúvidas sobre estes Termos, entre em contato conosco via:  
+## 9. Contato
+Se você tiver dúvidas ou solicitações sobre esta Política, entre em contato conosco via:  
 📩 **[Discord KamiBOTS](https://discord.gg/4TEcDDTYm6)**
